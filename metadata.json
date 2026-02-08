@@ -1,0 +1,5 @@
+{
+  "name": "Universal Social Media Downloader",
+  "description": "Professional-grade multi-platform media downloader using yt-dlp and ffmpeg core.",
+  "requestFramePermissions": []
+}
